@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    font-family: fanstasy;
+    position: absolute;
+    left: 30px;
+    background-image: url(bg3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}

@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color:  rgba(255, 145, 0, 0.943)red;
+    background-image: url(bg3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+#title {
+    height: 150px;
+    width: 400px;
+}
+
+#board {
+    width: 500px;
+    height: 500px;
+    background-color:  rgba(255, 145, 0, 0.943)red;
+    border: 10px solid  rgb(242, 68, 4);
+    border-radius: 5px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#board img {
+    width: 98px;
+    height: 98px;
+    border: 1px solid #8a2be2;
+}
+
